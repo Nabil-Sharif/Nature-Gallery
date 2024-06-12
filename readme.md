@@ -4,6 +4,8 @@
 
 This repository includes HTML and CSS files for a Nature Image Gallery webpage. The HTML file defines the structure of the webpage, while the CSS file provides styling for visual enhancements.
 
+![image](https://github.com/Nabil-Sharif/Nature-Gallery/assets/8103657/07adfd29-a9fd-4caf-bb74-be9dfadda214)
+
 ## HTML Structure
 
 - `index.html`: Defines the structure of the Nature Image Gallery webpage.
